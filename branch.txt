@@ -1,3 +1,4 @@
 hello from brnach one
 changes on the branch
 changes from first branch 
+this is a modified line from branch two
